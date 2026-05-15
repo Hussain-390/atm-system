@@ -86,17 +86,29 @@ java -jar ASimulator.jar
 ## 📸 Screenshots
 
 Add your project screenshots here.
+
 🔐 Login Page
+
 <img width="1181" height="706" alt="Screenshot 2026-05-15 065409" src="https://github.com/user-attachments/assets/514dbf71-a601-4938-8223-3a42d2551ed5" />
+
 📝 Signup Page
+
 <img width="1174" height="1029" alt="image" src="https://github.com/user-attachments/assets/b440ad15-b06d-469b-8389-62f7054df30e" />
+
 🧾Main Interface
+
 <img width="1348" height="1044" alt="image" src="https://github.com/user-attachments/assets/c3a6abeb-453a-460e-966b-6b0535ecde58" />
+
 💰 Deposit Page
+
 <img width="1253" height="964" alt="image" src="https://github.com/user-attachments/assets/7450662f-2074-4e2f-8a8c-4e17d3c30cc3" />
+
 💸 Withdraw Page
+
 <img width="1347" height="1042" alt="image" src="https://github.com/user-attachments/assets/7ccd6a1a-36e2-4cc4-b404-a70fafdee63a" />
+
 🧾Transaction Screen
+
 <img width="574" height="888" alt="image" src="https://github.com/user-attachments/assets/31c749eb-9a1b-448d-bdb5-3e245f6d9164" />
 
 ---
