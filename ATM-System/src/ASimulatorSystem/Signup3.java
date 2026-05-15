@@ -191,20 +191,20 @@ public class Signup3 extends JFrame implements ActionListener{
         c6.setBounds(350,600,200,30);
         add(c6);
         
-        c7.setBounds(100,680,600,20);
+        c7.setBounds(100,620,600,20);
         add(c7);
         
-        b1.setBounds(250,720,100,30);
+        b1.setBounds(250,650,100,30);
         add(b1);
         
-        b2.setBounds(420,720,100,30);
+        b2.setBounds(420,650,100,30);
         add(b2);
         
         
         getContentPane().setBackground(Color.WHITE);
         
-        setSize(850,850);
-        setLocation(500,120);
+        setSize(800,700);
+        setLocationRelativeTo(null);
         setVisible(true);
         
         b1.addActionListener(this);

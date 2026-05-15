@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import javax.swing.*;
 import java.util.*;
 
-class BalanceEnquiry extends JFrame implements ActionListener {
+public class BalanceEnquiry extends JFrame implements ActionListener {
 
     JTextField t1, t2;
     JButton b1, b2, b3;

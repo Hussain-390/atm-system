@@ -12,7 +12,7 @@ public class Signup2 extends JFrame implements ActionListener{
     JButton b;
     JRadioButton r1,r2,r3,r4;
     JTextField t1,t2,t3;
-    JComboBox c1,c2,c3,c4,c5;
+    JComboBox<String> c1,c2,c3,c4,c5;
     String formno;
     Signup2(String formno){
         
@@ -195,15 +195,15 @@ public class Signup2 extends JFrame implements ActionListener{
         r4.setBounds(460,540,100,30);
         add(r4);
         
-        b.setBounds(570,640,100,30);
+        b.setBounds(620,620,80,30);
         add(b);
         
         b.addActionListener(this);
         
         getContentPane().setBackground(Color.WHITE);
         
-        setSize(850,750);
-        setLocation(500,120);
+        setSize(800,700);
+        setLocationRelativeTo(null);
         setVisible(true);
     }
     

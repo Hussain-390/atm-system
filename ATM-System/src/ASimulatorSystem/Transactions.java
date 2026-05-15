@@ -68,8 +68,8 @@ public class Transactions extends JFrame implements ActionListener{
         b7.addActionListener(this);
         
         
-        setSize(960,1080);
-        setLocation(500,0);
+        setSize(900,700);
+        setLocationRelativeTo(null);
         setUndecorated(true);
         setVisible(true);
         
